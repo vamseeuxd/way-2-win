@@ -1,0 +1,7 @@
+{
+  "name": "anil-orthos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
